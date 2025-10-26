@@ -1,0 +1,9 @@
+{
+  "project_id": "vrfyjirddfdnwuffzqhb",
+  "functions": [
+    {
+      "name": "api",
+      "path": "supabase/functions/api"
+    }
+  ]
+}

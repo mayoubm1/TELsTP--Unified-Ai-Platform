@@ -1,0 +1,20 @@
+{
+  "name": "telstp-omnicog-backend-edge",
+  "version": "1.0.0",
+  "description": "TELsTP OmniCognitor Backend - Supabase Edge Functions (100% Free)",
+  "type": "module",
+  "scripts": {
+    "deploy": "supabase functions deploy api",
+    "serve": "supabase start && supabase functions serve"
+  },
+  "keywords": [
+    "telstp",
+    "omnicognitor",
+    "supabase",
+    "edge-functions",
+    "deno"
+  ],
+  "author": "MMAC - Manus Mission Accomplished",
+  "license": "MIT"
+}
+
